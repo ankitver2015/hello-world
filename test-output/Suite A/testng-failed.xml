@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite A]">
+  <test name="bbc(failed)">
+    <classes>
+      <class name="Test.chrome">
+        <methods>
+          <include name="testbbc"/>
+        </methods>
+      </class> <!-- Test.chrome -->
+    </classes>
+  </test> <!-- bbc(failed) -->
+</suite> <!-- Failed suite [Suite A] -->

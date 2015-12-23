@@ -1,0 +1,23 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite A">
+	<test name="bbc">
+		<classes>
+			<class name="Test.chrome">
+				<methods>
+
+					<include name="testbbc" />
+
+				</methods>
+			</class>
+		</classes>
+	</test>
+
+
+
+
+
+
+
+
+
+</suite>

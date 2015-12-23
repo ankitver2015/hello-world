@@ -1,0 +1,8 @@
+<suite name="My suite" parallel="false">
+
+	<suite-files>
+		<suite-file path="./bbc.xml" />
+		<suite-file path="./yahoo.xml" />
+
+	</suite-files>
+</suite>

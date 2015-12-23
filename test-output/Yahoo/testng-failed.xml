@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Yahoo]">
+  <test name="Yahoo Mail Tes(failed)">
+    <classes>
+      <class name="Test.chrome">
+        <methods>
+          <include name="testbbc"/>
+        </methods>
+      </class> <!-- Test.chrome -->
+    </classes>
+  </test> <!-- Yahoo Mail Tes(failed) -->
+</suite> <!-- Failed suite [Yahoo] -->

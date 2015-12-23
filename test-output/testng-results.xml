@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20458" started-at="2015-10-22T00:30:20Z" finished-at="2015-10-22T00:30:41Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20458" started-at="2015-10-22T00:30:20Z" finished-at="2015-10-22T00:30:41Z">
+      <class name="Test.A_2">
+        <test-method status="PASS" signature="testyahoo()[pri:1, instance:Test.A_2@6615435c]" name="testyahoo" duration-ms="20447" started-at="2015-10-21T17:30:20Z" finished-at="2015-10-21T17:30:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testyahoo -->
+      </class> <!-- Test.A_2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
